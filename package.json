@@ -1,0 +1,22 @@
+{
+  "name": "instafeed2",
+  "version": "1.0.0",
+  "description": "Instafeed2 is an easy-to-use JavaScript library to add photos and more from your Instagram feed to your own website.",
+  "main": "lib/instafeed2.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: No test specified.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackCICADA/Instafeed2.git"
+  },
+  "author": "blackCICADA <contact@blackcicada.com> (https://www.blackcicada.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/blackCICADA/Instafeed2/issues"
+  },
+  "homepage": "https://github.com/blackCICADA/Instafeed2#readme"
+}
